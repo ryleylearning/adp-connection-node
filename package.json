@@ -15,7 +15,7 @@
   "author": "ADP Marketplace",
   "license": "Apache-2.0",
   "dependencies": {
-    "adp-core": "^1.0.0",
+    "adp-core": "https://github.com/ryleylearning/adp-core-node.git",
     "config": "^1.19.0",
     "mongoose": "^4.3.7",
     "node-uuid": "^1.4.7",
